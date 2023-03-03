@@ -150,5 +150,4 @@ getopts CMD + while CMD + case CMD
 		if [ $# -ne 1 ]; then
 			Usage
 		fi
-asd
 
